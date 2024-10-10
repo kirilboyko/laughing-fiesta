@@ -1,4 +1,5 @@
 # Privacy Policy for Miata Pawbot!
+This is just a general overview about this Bot's privacy policy. We comply with GDPR, LGPDD, CCPA, CPRA.
 
 ## The information that this bot collects and stores is the following:
   - Guild IDs
@@ -11,7 +12,12 @@
 
 ## Why the bot collects this data:
 
-This data is collected to provide and maintain bot functionality, moderation and logging (for your servers) and to enhance user experience. This data is retaained for as long as needed (barring User Requested Removal)
+This data is collected to provide and maintain bot functionality, moderation and logging (for your servers) and to enhance user experience. Data is retained for as long as necessary to fulfill these purposes, unless a user requests its removal.
+
+We collect and process data based on legitimate interests, to ensure that this bot functions correctly and works for the users. We do not share this data with third parties.
+
+## Data Protection
+We take reasonable security mesaures in order to protect your data from unauthorised intrusion, disclosure or destruction.
 
 ## User rights:
 
